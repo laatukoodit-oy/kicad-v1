@@ -1,0 +1,535 @@
+Info: Reading netlist file '/home/aapo/repos/electronics-application-project/electronics-application-project.net'.
+
+Info: Using reference designators to match symbols and footprints.
+
+Info: Processing symbol 'R9:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'U3:Imported:PDIP-8_MCL'.
+Info: Processing symbol 'U2:Imported:ARJM11C7-114-BA-EW2_ABR'.
+Info: Processing symbol 'Y2:Imported:ABLS7M225000MHZD2YT'.
+Info: Processing symbol 'D1:Diode_SMD:Nexperia_CFP3_SOD-123W'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'U1:Imported:48LQFP_W5500_WIZ'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C9:Capacitor_THT:CP_Radial_D8.0mm_P3.50mm'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'FL1:Imported:BEADC1608X95N'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'U4:Imported:8S2_ATM'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'L1:Inductor_SMD:L_Wuerth_WE-PD4-Typ-X'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Changed C3 value from C_1206_3216Metric_Pad1.33x1.80mm_HandSolder to 10uF/16V.
+Changed REF** reference designator to C3.
+Updated C2 fields.
+Updated C2 sheetname to 'Root'.
+Updated C10 fields.
+Added C3 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Connected C3 pin 1 to 3.3V_D.
+Updated C2 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C3 footprint filters to '*CAP-A Size*'.
+Updated C3 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C3 sheetname to 'Root'.
+Updated C3 fields.
+Updated C3 symbol association from  to /39339e5e-3386-44d6-b63b-ca789b849e1d.
+Updated C2 footprint filters to '*CAP-A Size*'.
+Connected C2 pin 1 to 3.3V_A.
+Connected C2 pin 2 to GND.
+Updated C4 symbol association from  to /d64c9558-b79b-46f9-a9df-5654d544173f.
+Updated C5 footprint filters to '*CAP-0402*'.
+Updated C5 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C5 sheetname to 'Root'.
+Updated C5 fields.
+Updated C5 symbol association from  to /98cf96af-d709-457e-8edb-3cda4e6c0bfc.
+Changed C5 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 1uF.
+Changed REF** reference designator to C5.
+Added C5 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected C4 pin 1 to GND.
+Connected C4 pin 2 to 3.3V_D.
+Updated C4 footprint filters to '*CAP-0402*'.
+Updated C4 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C4 sheetname to 'Root'.
+Updated C4 fields.
+Connected C3 pin 2 to GND.
+Changed C4 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1uF.
+Changed REF** reference designator to C4.
+Added C4 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected C10 pin 2 to Net-(U2-RCT).
+Connected C10 pin 1 to GND.
+Updated C10 footprint filters to '*CAP-0402*'.
+Updated C10 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C10 sheetname to 'Root'.
+Updated C9 sheetname to 'Root'.
+Updated C10 symbol association from  to /bd86b700-3af4-4d80-aca0-f5ef76ea58f2.
+Changed C10 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 10nF.
+Changed REF** reference designator to C10.
+Added C10 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected U1 pin 8 to 3.3V_A.
+Updated D1 sheetname to 'Root'.
+Updated D1 fields.
+Updated D1 symbol association from  to /45052b53-0e34-475c-be16-8db8a14016c0.
+Changed D1 value from Nexperia_CFP3_SOD-123W to D_Schottky.
+Changed REF** reference designator to D1.
+Added D1 (footprint 'Diode_SMD:Nexperia_CFP3_SOD-123W').
+Connected U1 pin 5 to Net-(U1-RXN).
+Connected U1 pin 41 to GND.
+Connected U1 pin 39 to GND.
+Connected U1 pin 19 to GND.
+Connected U1 pin 29 to GND.
+Connected U1 pin 22 to Net-(U1-1V2O).
+Connected U1 pin 34 to /MISO.
+Connected U1 pin 9 to GND.
+Connected U1 pin 12 to unconnected-(U1-NC-Pad12).
+Updated D1 sheetfile to 'electronics-application-project.kicad_sch'.
+Connected U1 pin 38 to GND.
+Connected U1 pin 46 to unconnected-(U1-NC-Pad46).
+Connected U1 pin 27 to /ACT_LED.
+Connected U1 pin 15 to 3.3V_A.
+Connected U1 pin 37 to /RSTn.
+Connected U1 pin 10 to Net-(U1-EXRES1).
+Connected U1 pin 40 to GND.
+Connected U1 pin 35 to /MOSI.
+Connected U1 pin 42 to GND.
+Connected U1 pin 47 to unconnected-(U1-NC-Pad47).
+Connected U1 pin 48 to GND.
+Connected U1 pin 23 to GND.
+Connected U1 pin 26 to unconnected-(U1-DUPLED-Pad26).
+Connected U1 pin 31 to /XO.
+Connected U1 pin 28 to 3.3V_D.
+Connected J1 pin 3 to /SCLK.
+Changed C2 value from C_1206_3216Metric_Pad1.33x1.80mm_HandSolder to 10uF/16V.
+Changed REF** reference designator to C2.
+Added C2 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
+Connected C9 pin 2 to GND.
+Connected C9 pin 1 to 3.3V_D.
+Updated C9 footprint filters to 'CP_*'.
+Updated C9 sheetfile to 'electronics-application-project.kicad_sch'.
+Connected C6 pin 1 to Net-(U2-RD-).
+Updated C9 fields.
+Updated C9 symbol association from  to /2b5d1ab3-00d3-4160-b50f-63f7d3c0cba9.
+Changed C9 value from CP_Radial_D8.0mm_P3.50mm to 220uF.
+Changed REF** reference designator to C9.
+Added C9 (footprint 'Capacitor_THT:CP_Radial_D8.0mm_P3.50mm').
+Connected J1 pin 1 to /MISO.
+Connected J1 pin 5 to Net-(J1-Pin_5).
+Updated C2 symbol association from  to /f0c4647e-7db2-49a4-b2c6-85edde933e5b.
+Connected J1 pin 6 to Net-(J1-Pin_6).
+Connected J1 pin 2 to Net-(J1-Pin_2).
+Connected J1 pin 4 to /MOSI.
+Updated J1 footprint filters to 'Connector*:*_2x??_*'.
+Updated J1 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated J1 sheetname to 'Root'.
+Updated J1 fields.
+Updated J1 symbol association from  to /c0f46fe1-d5a3-4d4c-919c-f39801c13e18.
+Changed J1 value from PinHeader_2x03_P2.54mm_Vertical to Conn_02x03_Odd_Even.
+Changed REF** reference designator to J1.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical').
+Connected D1 pin 2 to GND.
+Connected D1 pin 1 to Net-(D1-K).
+Updated D1 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Updated C14 fields.
+Connected C15 pin 2 to 3.3V_A.
+Connected C15 pin 1 to GND.
+Updated C15 footprint filters to '*CAP-0402*'.
+Updated C15 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C15 sheetname to 'Root'.
+Updated C15 fields.
+Updated C15 symbol association from  to /24ab9905-796b-42d9-ab12-96dc945fa7b2.
+Changed C15 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1uF.
+Changed REF** reference designator to C15.
+Added C15 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected C14 pin 2 to Net-(U1-1V2O).
+Connected C14 pin 1 to GND.
+Updated C14 footprint filters to '*CAP-0402*'.
+Updated C14 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C14 sheetname to 'Root'.
+Added C16 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Updated C14 symbol association from  to /bf2a84fa-61fd-4680-af58-917f325b37b5.
+Changed C14 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 10nF.
+Changed REF** reference designator to C14.
+Added C14 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected C13 pin 2 to Net-(U1-TOCAP).
+Connected C13 pin 1 to GND.
+Updated C13 footprint filters to '*CAP-0402*'.
+Updated C13 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C13 sheetname to 'Root'.
+Updated C13 fields.
+Updated C13 symbol association from  to /d0a85bc3-830b-4c2a-8681-4d6fe26269da.
+Changed C13 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 4.7uF.
+Changed REF** reference designator to C13.
+Added C13 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Updated C17 sheetname to 'Root'.
+Removed unused net unconnected-(J2-Pad4).
+Connected C18 pin 2 to GND.
+Connected C18 pin 1 to Net-(U2-VC2+).
+Updated C18 footprint filters to 'C_*'.
+Updated C18 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C18 sheetname to 'Root'.
+Updated C18 fields.
+Updated C18 symbol association from  to /605437aa-f786-4bb5-9c77-437c9c3d09c1.
+Changed C18 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 22uF.
+Changed REF** reference designator to C18.
+Added C18 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected C17 pin 1 to GND.
+Connected C17 pin 2 to 3.3V_A.
+Updated C17 footprint filters to '*CAP-0402*'.
+Updated C17 sheetfile to 'electronics-application-project.kicad_sch'.
+Connected C12 pin 1 to GND.
+Updated C17 fields.
+Updated C17 symbol association from  to /c4e9a6dc-28bf-41de-a04c-b7d26e5721dc.
+Changed C17 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1uF.
+Changed REF** reference designator to C17.
+Added C17 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected C16 pin 1 to GND.
+Connected C16 pin 2 to 3.3V_D.
+Updated C16 footprint filters to '*CAP-0402*'.
+Updated C16 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C16 sheetname to 'Root'.
+Updated C16 fields.
+Updated C16 symbol association from  to /6b8a1148-1e40-4acc-b62b-5eb30f0936dc.
+Changed C16 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1uF.
+Changed REF** reference designator to C16.
+Updated C7 symbol association from  to /1450216c-c8c6-4176-9a29-bbd24a88ce67.
+Connected C8 pin 2 to Net-(U2-TCT).
+Updated C8 footprint filters to '*CAP-0402*'.
+Updated C8 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C8 sheetname to 'Root'.
+Updated C8 fields.
+Updated C8 symbol association from  to /b4410baf-dcd8-497d-a767-4d83cadaab43.
+Changed C8 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 22nF.
+Changed REF** reference designator to C8.
+Added C8 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected C7 pin 1 to Net-(U2-RD+).
+Connected C7 pin 2 to Net-(C7-Pad2).
+Updated C7 footprint filters to '*CAP-0402*'.
+Updated C7 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C7 sheetname to 'Root'.
+Updated C7 fields.
+Connected C8 pin 1 to GND.
+Changed C7 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 6.8nF.
+Changed REF** reference designator to C7.
+Added C7 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected C6 pin 2 to Net-(C6-Pad2).
+Connected U1 pin 16 to GND.
+Updated C6 footprint filters to '*CAP-0402*'.
+Updated C6 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C6 sheetname to 'Root'.
+Updated C6 fields.
+Updated C6 symbol association from  to /35c9843b-8eb6-4952-ac0b-ee2a6f84550b.
+Changed C6 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 6.8nF.
+Changed REF** reference designator to C6.
+Added C6 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected C5 pin 1 to GND.
+Updated C11 fields.
+Connected C12 pin 2 to /XO.
+Updated C12 footprint filters to '*CAP-0402*'.
+Updated C12 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C12 sheetname to 'Root'.
+Updated C12 fields.
+Updated C12 symbol association from  to /b59ed35d-b090-4cb5-8d44-7dbc175c3bbf.
+Changed C12 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 18pF.
+Changed REF** reference designator to C12.
+Added C12 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected C11 pin 2 to /XI.
+Connected C11 pin 1 to GND.
+Updated C11 footprint filters to '*CAP-0402*'.
+Updated C11 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C11 sheetname to 'Root'.
+Connected C5 pin 2 to 3.3V_A.
+Updated C11 symbol association from  to /7e6bae49-7525-4bb3-9e65-966792cc3357.
+Changed C11 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 18pF.
+Changed REF** reference designator to C11.
+Added C11 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected C1 pin 2 to 3.3V_A.
+Connected C1 pin 1 to GND.
+Updated C1 footprint filters to '*CAP-0402*'.
+Updated C1 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated C1 sheetname to 'Root'.
+Updated C1 fields.
+Updated C1 symbol association from  to /b1886169-6165-4913-afea-0eac76f3163c.
+Changed C1 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 0.1uF.
+Changed REF** reference designator to C1.
+Added C1 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Connected R10 pin 2 to 3.3V_D.
+Updated R13 symbol association from  to /3f253190-1ccd-4c57-bb72-a4941f10a872.
+Changed R13 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 49R9.
+Changed REF** reference designator to R13.
+Added R13 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R11 pin 2 to Net-(U1-RXP).
+Connected R11 pin 1 to Net-(C7-Pad2).
+Updated R11 footprint filters to '*RES-0402*'.
+Updated R11 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated R11 sheetname to 'Root'.
+Updated R11 fields.
+Updated R11 symbol association from  to /65119cb9-480e-45eb-b23d-6f9844c1c2e2.
+Changed R11 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 3.3R.
+Changed REF** reference designator to R11.
+Added R11 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R10 pin 1 to /SCSn.
+Updated R13 fields.
+Updated R10 footprint filters to '*RES-0402*'.
+Updated R10 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated R10 sheetname to 'Root'.
+Updated R10 fields.
+Updated R10 symbol association from  to /78ff54ea-fc2d-4006-a646-148183ff3948.
+Changed R10 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 4.7K.
+Changed REF** reference designator to R10.
+Added R10 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R9 pin 2 to Net-(U1-RXN).
+Connected R9 pin 1 to Net-(C6-Pad2).
+Updated R9 footprint filters to '*RES-0402*'.
+Updated R9 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated R9 sheetname to 'Root'.
+Updated R9 fields.
+Updated R9 symbol association from  to /4b52f591-db59-4a2b-9fb0-418a93fa1a29.
+Connected R14 pin 2 to Net-(C7-Pad2).
+Updated R16 fields.
+Updated R16 symbol association from  to /b630061c-a3e4-4f90-8e3e-2065ac347791.
+Connected U1 pin 43 to 3.3V_D.
+Changed REF** reference designator to R16.
+Added R16 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R15 pin 1 to GND.
+Connected R15 pin 2 to Net-(U1-EXRES1).
+Updated R15 footprint filters to '*RES-0402*'.
+Updated R15 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated R15 sheetname to 'Root'.
+Updated R15 fields.
+Updated R15 symbol association from  to /ecf98226-8494-4d84-98da-6ad487e02c39.
+Changed R15 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 12.4K.
+Changed REF** reference designator to R15.
+Added R15 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed R9 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 3.3R.
+Connected R14 pin 1 to Net-(U2-RCT).
+Updated R14 footprint filters to '*RES-0402*'.
+Updated R14 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated R14 sheetname to 'Root'.
+Updated R14 fields.
+Updated R14 symbol association from  to /fa334bb0-abd3-4d75-bbfb-cc5f3d18a9a6.
+Changed R14 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 49R9.
+Changed REF** reference designator to R14.
+Added R14 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R13 pin 2 to Net-(C6-Pad2).
+Connected R13 pin 1 to Net-(U2-RCT).
+Updated R13 footprint filters to '*RES-0402*'.
+Updated R13 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated R13 sheetname to 'Root'.
+Updated R4 sheetname to 'Root'.
+Added R6 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R5 pin 2 to 3.3V_A.
+Connected R5 pin 1 to Net-(U2-TD-).
+Updated R5 footprint filters to '*RES-0402*'.
+Updated R5 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated R5 sheetname to 'Root'.
+Updated R5 fields.
+Updated R5 symbol association from  to /f4c47be9-f67e-42f0-be19-51009210495b.
+Changed R5 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 49R9.
+Changed REF** reference designator to R5.
+Added R5 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R4 pin 2 to 3.3V_A.
+Connected R4 pin 1 to Net-(U2-TCT).
+Updated R4 footprint filters to '*RES-0402*'.
+Updated R4 sheetfile to 'electronics-application-project.kicad_sch'.
+Changed REF** reference designator to R6.
+Updated R4 fields.
+Updated R4 symbol association from  to /694c91ed-ddcb-4bff-8ef8-5355bbf0f16e.
+Changed R4 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 10R.
+Changed REF** reference designator to R4.
+Added R4 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R12 pin 2 to /XO.
+Connected R12 pin 1 to /XI.
+Updated R12 footprint filters to '*RES-0402*'.
+Updated R12 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated R12 sheetname to 'Root'.
+Updated R12 fields.
+Updated R12 symbol association from  to /6fe297ad-3988-4ce9-9477-a64f63437bff.
+Changed R12 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 1M.
+Changed REF** reference designator to R12.
+Added R12 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Updated R7 sheetfile to 'electronics-application-project.kicad_sch'.
+Changed REF** reference designator to R9.
+Added R9 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R8 pin 1 to Net-(U2-TD+).
+Connected R8 pin 2 to Net-(U1-TXP).
+Updated R8 footprint filters to '*RES-0402*'.
+Updated R8 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated R8 sheetname to 'Root'.
+Updated R8 fields.
+Updated R8 symbol association from  to /ea5f7f91-3d5d-47d4-8a97-c2a37f16e732.
+Changed R8 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 3.3R.
+Changed REF** reference designator to R8.
+Added R8 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R7 pin 1 to Net-(U2-TD-).
+Connected R7 pin 2 to Net-(U1-TXN).
+Updated R7 footprint filters to '*RES-0402*'.
+Changed R16 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 4.7K.
+Updated R7 sheetname to 'Root'.
+Updated R7 fields.
+Updated R7 symbol association from  to /e2a91798-75ad-49fb-8a51-7c26877c3605.
+Changed R7 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 3.3R.
+Changed REF** reference designator to R7.
+Added R7 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R6 pin 1 to Net-(U2-TD+).
+Connected R6 pin 2 to 3.3V_A.
+Updated R6 footprint filters to '*RES-0402*'.
+Updated R6 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated R6 sheetname to 'Root'.
+Updated R6 fields.
+Updated R6 symbol association from  to /f5ab7cc1-705f-4b33-b53a-2c9cf007dd71.
+Changed R6 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 49R9.
+Connected Y2 pin 2 to /XI.
+Connected U4 pin 5 to /MOSI.
+Connected U4 pin 8 to Net-(J1-Pin_2).
+Connected U4 pin 3 to /INTn.
+Connected U4 pin 7 to /SCLK.
+Connected U4 pin 2 to /SCSn.
+Connected U4 pin 1 to Net-(J1-Pin_5).
+Connected U4 pin 6 to /MISO.
+Updated U4 footprint filters to '8S2_ATM 8S2_ATM-M 8S2_ATM-L'.
+Updated U4 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated U4 sheetname to 'Root'.
+Updated U4 fields.
+Updated U4 symbol association from  to /45705ef4-20e9-4fbb-afd7-f7a3314cc678.
+Changed U4 value from 8S2_ATM to ATTINY85-20SU.
+Changed REF** reference designator to U4.
+Added U4 (footprint 'Imported:8S2_ATM').
+Connected U4 pin 4 to Net-(J1-Pin_6).
+Updated Y2 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated Y2 sheetname to 'Root'.
+Updated Y2 fields.
+Updated Y2 symbol association from  to /1a311589-d22a-4f44-a57e-616ec62c8bf3.
+Changed Y2 value from ABLS7M225000MHZD2YT to ABLS7M2-25.000MHZ-D-2Y-T.
+Changed Y** reference designator to Y2.
+Added Y2 (footprint 'Imported:ABLS7M225000MHZD2YT').
+Connected U2 pin 10 to Net-(U2-TD+).
+Connected U2 pin 3 to Net-(U2-RD-).
+Connected U2 pin 4 to Net-(U2-RCT).
+Connected U2 pin 8 to Net-(U2-TD-).
+Connected U2 pin 2 to unconnected-(U2-VC1--Pad2).
+Connected U2 pin 7 to unconnected-(U2-VC1+-Pad7).
+Connected U2 pin 1 to Net-(U2-VC2-).
+Connected U1 pin 36 to /INTn.
+Connected U1 pin 21 to 3.3V_A.
+Connected U1 pin 1 to Net-(U1-TXN).
+Connected U1 pin 20 to Net-(U1-TOCAP).
+Connected U1 pin 32 to /SCSn.
+Connected U1 pin 45 to 3.3V_D.
+Connected U1 pin 6 to Net-(U1-RXP).
+Connected U1 pin 33 to /SCLK.
+Connected U1 pin 4 to 3.3V_A.
+Connected U1 pin 44 to 3.3V_D.
+Connected U1 pin 30 to /XI.
+Connected U1 pin 13 to unconnected-(U1-NC-Pad13).
+Connected U1 pin 7 to unconnected-(U1-DNC-Pad7).
+Connected U1 pin 11 to 3.3V_A.
+Connected U1 pin 14 to GND.
+Updated R16 sheetfile to 'electronics-application-project.kicad_sch'.
+Connected U1 pin 17 to 3.3V_A.
+Connected U1 pin 24 to unconnected-(U1-SPDLED-Pad24).
+Connected U1 pin 25 to /LINK_LED.
+Connected U1 pin 18 to unconnected-(U1-VBG-Pad18).
+Connected U1 pin 3 to GND.
+Connected U1 pin 2 to Net-(U1-TXP).
+Updated U1 footprint filters to '*WIZnet W5500*'.
+Updated U1 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated U1 sheetname to 'Root'.
+Updated U1 fields.
+Updated U1 symbol association from  to /2f8c189f-3275-43c7-b14b-6639b22209d3.
+Changed U1 value from 48LQFP_W5500_WIZ to W5500.
+Changed REF** reference designator to U1.
+Added U1 (footprint 'Imported:48LQFP_W5500_WIZ').
+Changed REF** reference designator to L1.
+Updated U3 footprint filters to 'PDIP-8_MCL'.
+Updated U3 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated U3 fields.
+Updated U3 symbol association from  to /7e8cb83b-0046-4be6-b5f3-5211368ccf3a.
+Changed U3 value from PDIP-8_MCL to LM2574-3.3YN.
+Changed REF** reference designator to U3.
+Added U3 (footprint 'Imported:PDIP-8_MCL').
+Connected L1 pin 2 to 3.3V_D.
+Connected L1 pin 1 to Net-(D1-K).
+Updated L1 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Updated L1 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated L1 sheetname to 'Root'.
+Updated L1 fields.
+Updated L1 symbol association from  to /f9261afa-60fa-4908-b7c5-b58d54f8de96.
+Changed L1 value from L_Wuerth_WE-PD4-Typ-X to 330uH.
+Updated U3 sheetname to 'Root'.
+Added L1 (footprint 'Inductor_SMD:L_Wuerth_WE-PD4-Typ-X').
+Connected R17 pin 1 to /RSTn.
+Connected R17 pin 2 to 3.3V_D.
+Updated R17 footprint filters to '*RES-0402*'.
+Updated R17 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated R17 sheetname to 'Root'.
+Updated R17 fields.
+Updated R17 symbol association from  to /a502d190-1830-4ed1-ab95-29f6e1dd73bd.
+Changed R17 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 4.7K.
+Changed REF** reference designator to R17.
+Added R17 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R16 pin 2 to 3.3V_D.
+Connected R16 pin 1 to /INTn.
+Updated R16 footprint filters to '*RES-0402*'.
+Updated R16 sheetname to 'Root'.
+Connected U3 pin 3 to Net-(U2-VC2-).
+Connected U2 pin 5 to Net-(U2-RD+).
+Connected U2 pin 6 to Net-(U2-VC2+).
+Connected U2 pin 9 to Net-(U2-TCT).
+Updated U2 footprint filters to 'ARJM11C7-114-BA-EW2_ABR'.
+Updated U2 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated U2 sheetname to 'Root'.
+Updated U2 fields.
+Updated U2 symbol association from  to /ba606494-7e32-4e76-ad1c-b33cc1679aea.
+Changed U2 value from ARJM11C7-114-BA-EW2_ABR to ARJM11C7-114-BA-EW2.
+Changed REF** reference designator to U2.
+Added U2 (footprint 'Imported:ARJM11C7-114-BA-EW2_ABR').
+Connected FL1 pin 2 to 3.3V_A.
+Connected FL1 pin 1 to 3.3V_D.
+Updated FL1 sheetfile to 'electronics-application-project.kicad_sch'.
+Updated FL1 sheetname to 'Root'.
+Updated FL1 symbol association from  to /e4dd2452-637d-463b-aa36-d7d849694aaf.
+Changed FL1 value from BEADC1608X95N to BLM18PG121SH1D.
+Changed REF** reference designator to FL1.
+Added FL1 (footprint 'Imported:BEADC1608X95N').
+Connected U3 pin 7 to Net-(D1-K).
+Connected U3 pin 6 to unconnected-(U3-NC-Pad6).
+Connected U3 pin 2 to Net-(U2-VC2-).
+Connected U3 pin 5 to Net-(U2-VC2+).
+Connected U3 pin 4 to Net-(U2-VC2-).
+Connected U3 pin 8 to unconnected-(U3-NC-Pad8).
+Connected U3 pin 1 to 3.3V_D.
+Warning: No net found for component U2 pad 16 (no pin 16 in symbol).
+Warning: No net found for component U2 pad 18 (no pin 18 in symbol).
+Warning: No net found for component U2 pad 17 (no pin 17 in symbol).
+Warning: No net found for component U2 pad 15 (no pin 15 in symbol).
+Warning: No net found for component Y2 pad 1 (no pin 1 in symbol).
+Error: U2 pad 11 not found in Imported:ARJM11C7-114-BA-EW2_ABR.
+Error: U2 pad 12 not found in Imported:ARJM11C7-114-BA-EW2_ABR.
+Error: U2 pad 13 not found in Imported:ARJM11C7-114-BA-EW2_ABR.
+Error: U2 pad 14 not found in Imported:ARJM11C7-114-BA-EW2_ABR.
+Error: Symbol Y2 has pins with no number.  These pins can not be matched to pads in Imported:ABLS7M225000MHZD2YT.
+
+
+Info: Total warnings: 5, errors: 5.

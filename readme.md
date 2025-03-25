@@ -1,3 +1,2 @@
 ![](schematic.svg)
 
-![](layout.png)

@@ -5056,6 +5056,12 @@
 		(uuid "7a504c39-31bb-47e5-a0f2-4d355b892d2f")
 	)
 	(junction
+		(at 285.75 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7eb460c7-434b-4b04-ab4d-5d65eed03701")
+	)
+	(junction
 		(at 35.56 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6723,6 +6729,16 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 26.67) (xy 290.83 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bdb7696-e809-4741-a482-961ffcdbe90f")
+	)
+	(wire
+		(pts
 			(xy 281.94 31.75) (xy 276.86 31.75)
 		)
 		(stroke
@@ -7443,6 +7459,16 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 26.67) (xy 290.83 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8206929-e685-4446-893b-91cea255abd1")
+	)
+	(wire
+		(pts
 			(xy 232.41 148.1328) (xy 232.41 153.67)
 		)
 		(stroke
@@ -8125,6 +8151,16 @@
 		(uuid "38b6c1a0-7ba8-4af6-a18e-c5dc6506697e")
 	)
 	(label "INTn"
+		(at 290.83 20.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4456611a-b494-4872-90d7-823b2233736e")
+	)
+	(label "INTn"
 		(at 196.85 118.11 0)
 		(effects
 			(font
@@ -8487,10 +8523,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "8bbf2b5a-5f9c-4d38-97f0-b8ece09fd12a")
+			(uuid "8bbf2b5a-5f9c-4d38-97f0-b8ece09fd12b")
 		)
 		(pin "1"
-			(uuid "9a80aec2-5afa-4c16-9a15-976c521eaa77")
+			(uuid "9a80aec2-5afa-4c16-9a15-976c521eaa78")
 		)
 		(instances
 			(project ""

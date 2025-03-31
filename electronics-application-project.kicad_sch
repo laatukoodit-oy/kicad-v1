@@ -6299,7 +6299,7 @@
 		)
 		(uuid "0d05c3d0-d6af-4d3c-8ac0-0c7ab958e909")
 	)
-	(text "PB1 = W5500 SCLK / UART TX\nPB0 = W5500 MISO / Buzzer PWM\nPB3 = W5500 MOSI\nPB4 = W5500 CS\nPB2 = W5500 INT"
+	(text "PB1 = W5500 SCLK / UART TX\nPB0 = W5500 MOSI / Buzzer PWM\nPB3 = W5500 MISO\nPB4 = W5500 CS\nPB2 = W5500 INT"
 		(exclude_from_sim no)
 		(at 294.64 100.838 0)
 		(effects
@@ -9998,7 +9998,7 @@
 		)
 		(uuid "feb476f7-20cc-4e47-8fbd-a27ef0508378")
 	)
-	(label "MISO"
+	(label "MOSI"
 		(at 243.84 80.01 180)
 		(effects
 			(font
@@ -10148,7 +10148,7 @@
 		)
 		(uuid "ab4d0394-134d-445b-9e6a-a15cf0b761c0")
 	)
-	(label "MOSI"
+	(label "MISO"
 		(at 237.49 104.14 0)
 		(effects
 			(font
@@ -10198,7 +10198,7 @@
 		)
 		(uuid "c48f40ec-5c6d-4cd7-9e13-e18aa8323583")
 	)
-	(label "MOSI"
+	(label "MISO"
 		(at 331.47 154.94 270)
 		(effects
 			(font
@@ -10208,7 +10208,7 @@
 		)
 		(uuid "c8de8f5c-d7a0-4949-965c-8636bf61a18f")
 	)
-	(label "MISO"
+	(label "MOSI"
 		(at 347.98 119.38 0)
 		(effects
 			(font

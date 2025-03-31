@@ -21,11 +21,11 @@
       "graphics": false,
       "keepouts": false,
       "lockedItems": false,
-      "otherItems": false,
+      "otherItems": true,
       "pads": false,
       "text": false,
       "tracks": true,
-      "vias": false,
+      "vias": true,
       "zones": true
     },
     "visible_items": [
@@ -88,16 +88,16 @@
       9
     ],
     "col_widths": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      82
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
